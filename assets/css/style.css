@@ -1,1 +1,69 @@
-/* Holiii otra vez */
+body{
+	font-family: 'Merriweather Sans', sans-serif;
+    overflow-x: hidden;
+    margin: 0;
+	padding: 0;
+}
+
+/*Navbar */
+.navbar{
+	color: #424242;
+	border-bottom: 2px solid #C62828;
+
+}
+#a{
+	padding-bottom: 25px;
+	padding-top: 20px;
+}
+#NEWS{
+    font-size: 23px; 
+    font-weight: 700;
+	color: black;
+	float:left; 
+	
+}
+div a{
+	background-color: transparent;
+	color: #424242;
+	display: inline-block;
+}
+.menumain{
+	padding:15px;
+	padding-bottom: 25px;
+}
+.menumain:hover{
+	border-bottom: 3.3px solid #C62828;
+	text-decoration: none;
+}
+#search{
+	background-color: #C62828;
+	color: white;
+	border-radius: 2px;
+	border:none;
+	padding: 10px 30px;
+	margin-left: 300px;
+	box-shadow: 5px 5px 2px #9E9E9E;
+}
+.link{
+	margin-left:5px; 
+	text-decoration:none;
+}
+
+/*fotos*/
+#family{
+	padding-top: 200px;
+}
+img{
+	padding:0;
+	margin:0;
+	width: 100%;
+	height: 100%;
+}
+#down{
+	margin-top: 30px;
+}
+#popular{
+	background-color: #C62828;
+	color: white;
+
+}
